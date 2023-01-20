@@ -1,0 +1,1 @@
+# Simple-WordPress-Auto-deployment-using-GitLab-CI-CD
